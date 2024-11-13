@@ -1,0 +1,3465 @@
+{
+  "meta": {
+    "page": 0,
+    "page_size": 5000,
+    "first_page_url": "https://ai.twilio.com/v1/Services/GA45eb174fbf49a7b2dd68fe0b20db99fe/Transcripts/GT9bbfdad31b9215d22471c282cc5136ab/Sentences?PageSize=5000&Page=0",
+    "previous_page_url": null,
+    "url": "https://ai.twilio.com/v1/Services/GA45eb174fbf49a7b2dd68fe0b20db99fe/Transcripts/GT9bbfdad31b9215d22471c282cc5136ab/Sentences?PageSize=5000&Page=0",
+    "next_page_url": null,
+    "key": "sentences"
+  },
+  "sentences": [
+    {
+      "sentence_index": 0,
+      "confidence": "0.87994915247",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "3.5",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "14.3",
+      "words": [
+        {
+          "to": 8.5,
+          "confidence": 0.9917880892753601,
+          "from": 3.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9917880892753601,
+              "word": "Just"
+            }
+          ],
+          "word": "Just"
+        },
+        {
+          "to": 8.7,
+          "confidence": 0.9823606014251709,
+          "from": 8.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9823606014251709,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 8.8,
+          "confidence": 0.9142471551895142,
+          "from": 8.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9142471551895142,
+              "word": "sec"
+            }
+          ],
+          "word": "sec"
+        },
+        {
+          "to": 9,
+          "confidence": 0.8512200713157654,
+          "from": 8.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.8512200713157654,
+              "word": "while"
+            }
+          ],
+          "word": "while"
+        },
+        {
+          "to": 9.1,
+          "confidence": 0.8667808771133423,
+          "from": 9,
+          "word_alternatives": [
+            {
+              "confidence": 0.8667808771133423,
+              "word": "I"
+            }
+          ],
+          "word": "I"
+        },
+        {
+          "to": 9.2,
+          "confidence": 0.9925004839897156,
+          "from": 9.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9925004839897156,
+              "word": "get"
+            }
+          ],
+          "word": "get"
+        },
+        {
+          "to": 9.4,
+          "confidence": 0.8955588340759277,
+          "from": 9.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.8955588340759277,
+              "word": "your"
+            }
+          ],
+          "word": "your"
+        },
+        {
+          "to": 9.5,
+          "confidence": 0.9971084594726562,
+          "from": 9.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9971084594726562,
+              "word": "details."
+            }
+          ],
+          "word": "details."
+        },
+        {
+          "to": 10.1,
+          "confidence": 0.6021414995193481,
+          "from": 9.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.6021414995193481,
+              "word": "Hey,"
+            }
+          ],
+          "word": "Hey,"
+        },
+        {
+          "to": 10.3,
+          "confidence": 0.5675747990608215,
+          "from": 10.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.5675747990608215,
+              "word": "it"
+            }
+          ],
+          "word": "it"
+        },
+        {
+          "to": 10.4,
+          "confidence": 0.5023510456085205,
+          "from": 10.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.5023510456085205,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 10.7,
+          "confidence": 0.9972614049911499,
+          "from": 10.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9972614049911499,
+              "word": "great"
+            }
+          ],
+          "word": "great"
+        },
+        {
+          "to": 11,
+          "confidence": 0.99806809425354,
+          "from": 10.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.99806809425354,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 11.2,
+          "confidence": 0.9841896295547485,
+          "from": 11,
+          "word_alternatives": [
+            {
+              "confidence": 0.9841896295547485,
+              "word": "hear"
+            }
+          ],
+          "word": "hear"
+        },
+        {
+          "to": 11.3,
+          "confidence": 0.9931718707084656,
+          "from": 11.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9931718707084656,
+              "word": "from"
+            }
+          ],
+          "word": "from"
+        },
+        {
+          "to": 11.3,
+          "confidence": 0.9851764440536499,
+          "from": 11.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9851764440536499,
+              "word": "you"
+            }
+          ],
+          "word": "you"
+        },
+        {
+          "to": 11.5,
+          "confidence": 0.98859703540802,
+          "from": 11.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.98859703540802,
+              "word": "again."
+            }
+          ],
+          "word": "again."
+        },
+        {
+          "to": 12.4,
+          "confidence": 0.9399385452270508,
+          "from": 11.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9399385452270508,
+              "word": "How's"
+            }
+          ],
+          "word": "How's"
+        },
+        {
+          "to": 12.5,
+          "confidence": 0.9842538833618164,
+          "from": 12.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9842538833618164,
+              "word": "everything"
+            }
+          ],
+          "word": "everything"
+        },
+        {
+          "to": 12.6,
+          "confidence": 0.9859656095504761,
+          "from": 12.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9859656095504761,
+              "word": "going"
+            }
+          ],
+          "word": "going"
+        },
+        {
+          "to": 13.3,
+          "confidence": 0.9417734146118164,
+          "from": 12.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9417734146118164,
+              "word": "still"
+            }
+          ],
+          "word": "still"
+        },
+        {
+          "to": 13.6,
+          "confidence": 0.9866325855255127,
+          "from": 13.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9866325855255127,
+              "word": "dreaming"
+            }
+          ],
+          "word": "dreaming"
+        },
+        {
+          "to": 13.7,
+          "confidence": 0.9871084690093994,
+          "from": 13.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9871084690093994,
+              "word": "about"
+            }
+          ],
+          "word": "about"
+        },
+        {
+          "to": 13.9,
+          "confidence": 0.9516397714614868,
+          "from": 13.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9516397714614868,
+              "word": "those"
+            }
+          ],
+          "word": "those"
+        },
+        {
+          "to": 14,
+          "confidence": 0.17756885290145874,
+          "from": 13.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.17756885290145874,
+              "word": "wit"
+            }
+          ],
+          "word": "wit"
+        },
+        {
+          "to": 14.3,
+          "confidence": 0.8137040138244629,
+          "from": 14,
+          "word_alternatives": [
+            {
+              "confidence": 0.8137040138244629,
+              "word": "Sundays"
+            }
+          ],
+          "word": "Sundays"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000000",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Just a sec while I get your details. Hey, it is great to hear from you again. How's everything going still dreaming about those wit Sundays",
+      "channel": 2
+    },
+    {
+      "sentence_index": 1,
+      "confidence": "0.959180474281",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "13.0",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "yeah, yeah, I guess I am um can I order a large ham and pineapple pizza and also a ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.7859124,
+              "clazz": "Organization"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "21.3",
+      "words": [
+        {
+          "to": 13.3,
+          "confidence": 0.9553228616714478,
+          "from": 13,
+          "word_alternatives": [
+            {
+              "confidence": 0.9553228616714478,
+              "word": "yeah,"
+            }
+          ],
+          "word": "yeah,"
+        },
+        {
+          "to": 13.3,
+          "confidence": 0.9553228616714478,
+          "from": 13.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9553228616714478,
+              "word": "yeah,"
+            }
+          ],
+          "word": "yeah,"
+        },
+        {
+          "to": 15.5,
+          "confidence": 0.9858410358428955,
+          "from": 13.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9858410358428955,
+              "word": "I"
+            }
+          ],
+          "word": "I"
+        },
+        {
+          "to": 15.5,
+          "confidence": 0.9858410358428955,
+          "from": 15.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9858410358428955,
+              "word": "guess"
+            }
+          ],
+          "word": "guess"
+        },
+        {
+          "to": 15.7,
+          "confidence": 0.9885040521621704,
+          "from": 15.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9885040521621704,
+              "word": "I"
+            }
+          ],
+          "word": "I"
+        },
+        {
+          "to": 15.8,
+          "confidence": 0.7877609133720398,
+          "from": 15.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.7877609133720398,
+              "word": "am"
+            }
+          ],
+          "word": "am"
+        },
+        {
+          "to": 16.5,
+          "confidence": 0.9018781781196594,
+          "from": 15.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9018781781196594,
+              "word": "um"
+            }
+          ],
+          "word": "um"
+        },
+        {
+          "to": 16.9,
+          "confidence": 0.9968327283859253,
+          "from": 16.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9968327283859253,
+              "word": "can"
+            }
+          ],
+          "word": "can"
+        },
+        {
+          "to": 16.9,
+          "confidence": 0.9968327283859253,
+          "from": 16.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9968327283859253,
+              "word": "I"
+            }
+          ],
+          "word": "I"
+        },
+        {
+          "to": 17.3,
+          "confidence": 0.9996162056922913,
+          "from": 16.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9996162056922913,
+              "word": "order"
+            }
+          ],
+          "word": "order"
+        },
+        {
+          "to": 17.8,
+          "confidence": 0.9982439875602722,
+          "from": 17.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9982439875602722,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 18.2,
+          "confidence": 0.9984598755836487,
+          "from": 17.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9984598755836487,
+              "word": "large"
+            }
+          ],
+          "word": "large"
+        },
+        {
+          "to": 18.7,
+          "confidence": 0.920125424861908,
+          "from": 18.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.920125424861908,
+              "word": "ham"
+            }
+          ],
+          "word": "ham"
+        },
+        {
+          "to": 18.7,
+          "confidence": 0.920125424861908,
+          "from": 18.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.920125424861908,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 19,
+          "confidence": 0.981369137763977,
+          "from": 18.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.981369137763977,
+              "word": "pineapple"
+            }
+          ],
+          "word": "pineapple"
+        },
+        {
+          "to": 19.3,
+          "confidence": 0.9857118129730225,
+          "from": 19,
+          "word_alternatives": [
+            {
+              "confidence": 0.9857118129730225,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 19.7,
+          "confidence": 0.9954407215118408,
+          "from": 19.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9954407215118408,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 20.1,
+          "confidence": 0.9982355833053589,
+          "from": 19.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9982355833053589,
+              "word": "also"
+            }
+          ],
+          "word": "also"
+        },
+        {
+          "to": 20.8,
+          "confidence": 0.8412428498268127,
+          "from": 20.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.8412428498268127,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 21.3,
+          "confidence": 0.9908996224403381,
+          "from": 20.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9908996224403381,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0101000001",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "yeah, yeah, I guess I am um can I order a large ham and pineapple pizza and also a Pepsi",
+      "channel": 1
+    },
+    {
+      "sentence_index": 2,
+      "confidence": "0.894409239292",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "23.1",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "Absolutely there's a large ham and pineapple pizza and a ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            },
+            {
+              "chunk": " coming right up. The pizza will be ",
+              "label": ""
+            },
+            {
+              "chunk": "50 $15",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " and the ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            },
+            {
+              "chunk": " is ",
+              "label": ""
+            },
+            {
+              "chunk": "$4",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " cos it's just",
+              "label": ""
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.91859424,
+              "clazz": "Organization"
+            },
+            {
+              "score": 0.8172941,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.9533946,
+              "clazz": "Organization"
+            },
+            {
+              "score": 0.99912375,
+              "clazz": "Quantity"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "30.8",
+      "words": [
+        {
+          "to": 23.5,
+          "confidence": 0.8331968784332275,
+          "from": 23.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.8331968784332275,
+              "word": "Absolutely"
+            }
+          ],
+          "word": "Absolutely"
+        },
+        {
+          "to": 24.1,
+          "confidence": 0.8908054828643799,
+          "from": 23.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.8908054828643799,
+              "word": "there's"
+            }
+          ],
+          "word": "there's"
+        },
+        {
+          "to": 24.6,
+          "confidence": 0.9429762363433838,
+          "from": 24.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9429762363433838,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 24.9,
+          "confidence": 0.9911671280860901,
+          "from": 24.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9911671280860901,
+              "word": "large"
+            }
+          ],
+          "word": "large"
+        },
+        {
+          "to": 25.2,
+          "confidence": 0.922890841960907,
+          "from": 24.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.922890841960907,
+              "word": "ham"
+            }
+          ],
+          "word": "ham"
+        },
+        {
+          "to": 25.2,
+          "confidence": 0.9504528045654297,
+          "from": 25.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9504528045654297,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 25.5,
+          "confidence": 0.9937599897384644,
+          "from": 25.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9937599897384644,
+              "word": "pineapple"
+            }
+          ],
+          "word": "pineapple"
+        },
+        {
+          "to": 25.7,
+          "confidence": 0.9893811941146851,
+          "from": 25.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9893811941146851,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 26,
+          "confidence": 0.9474323391914368,
+          "from": 25.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9474323391914368,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 26.1,
+          "confidence": 0.968136191368103,
+          "from": 26,
+          "word_alternatives": [
+            {
+              "confidence": 0.968136191368103,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 26.3,
+          "confidence": 0.9010623097419739,
+          "from": 26.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9010623097419739,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        },
+        {
+          "to": 26.4,
+          "confidence": 0.9776787757873535,
+          "from": 26.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9776787757873535,
+              "word": "coming"
+            }
+          ],
+          "word": "coming"
+        },
+        {
+          "to": 26.7,
+          "confidence": 0.9485968947410583,
+          "from": 26.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9485968947410583,
+              "word": "right"
+            }
+          ],
+          "word": "right"
+        },
+        {
+          "to": 26.8,
+          "confidence": 0.8774362802505493,
+          "from": 26.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.8774362802505493,
+              "word": "up."
+            }
+          ],
+          "word": "up."
+        },
+        {
+          "to": 27.1,
+          "confidence": 0.9857202768325806,
+          "from": 26.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9857202768325806,
+              "word": "The"
+            }
+          ],
+          "word": "The"
+        },
+        {
+          "to": 27.4,
+          "confidence": 0.9768720269203186,
+          "from": 27.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9768720269203186,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 27.6,
+          "confidence": 0.9885212182998657,
+          "from": 27.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9885212182998657,
+              "word": "will"
+            }
+          ],
+          "word": "will"
+        },
+        {
+          "to": 27.6,
+          "confidence": 0.9885212182998657,
+          "from": 27.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9885212182998657,
+              "word": "be"
+            }
+          ],
+          "word": "be"
+        },
+        {
+          "to": 28.4,
+          "confidence": 0.6009217500686646,
+          "from": 27.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.6009217500686646,
+              "word": "50"
+            }
+          ],
+          "word": "50"
+        },
+        {
+          "to": 28.8,
+          "confidence": 0.9834010004997253,
+          "from": 28.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9834010004997253,
+              "word": "$15"
+            }
+          ],
+          "word": "$15"
+        },
+        {
+          "to": 29.1,
+          "confidence": 0.98440021276474,
+          "from": 28.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.98440021276474,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 29.1,
+          "confidence": 0.98440021276474,
+          "from": 29.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.98440021276474,
+              "word": "the"
+            }
+          ],
+          "word": "the"
+        },
+        {
+          "to": 29.7,
+          "confidence": 0.9419817924499512,
+          "from": 29.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9419817924499512,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        },
+        {
+          "to": 29.9,
+          "confidence": 0.955183744430542,
+          "from": 29.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.955183744430542,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 30,
+          "confidence": 0.9760375618934631,
+          "from": 29.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9760375618934631,
+              "word": "$4"
+            }
+          ],
+          "word": "$4"
+        },
+        {
+          "to": 30.8,
+          "confidence": 0.7760650515556335,
+          "from": 30,
+          "word_alternatives": [
+            {
+              "confidence": 0.7760650515556335,
+              "word": "cos"
+            }
+          ],
+          "word": "cos"
+        },
+        {
+          "to": 30.8,
+          "confidence": 0.3832293748855591,
+          "from": 30.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.3832293748855591,
+              "word": "it's"
+            }
+          ],
+          "word": "it's"
+        },
+        {
+          "to": 30.8,
+          "confidence": 0.3832293748855591,
+          "from": 30.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.3832293748855591,
+              "word": "just"
+            }
+          ],
+          "word": "just"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000002",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Absolutely there's a large ham and pineapple pizza and a Pepsi coming right up. The pizza will be 50 $15 and the Pepsi is $4 cos it's just",
+      "channel": 2
+    },
+    {
+      "sentence_index": 3,
+      "confidence": "0.866863489151",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "33.1",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "yeah, so that's ",
+              "label": ""
+            },
+            {
+              "chunk": "$19",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " in total. Would you like to add anything else is like or maybe a dessert to sweeten the deal?",
+              "label": ""
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.998833,
+              "clazz": "Quantity"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "38.3",
+      "words": [
+        {
+          "to": 33.3,
+          "confidence": 0.434235543012619,
+          "from": 33.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.434235543012619,
+              "word": "yeah,"
+            }
+          ],
+          "word": "yeah,"
+        },
+        {
+          "to": 33.6,
+          "confidence": 0.6667736172676086,
+          "from": 33.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.6667736172676086,
+              "word": "so"
+            }
+          ],
+          "word": "so"
+        },
+        {
+          "to": 34,
+          "confidence": 0.7079322934150696,
+          "from": 33.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.7079322934150696,
+              "word": "that's"
+            }
+          ],
+          "word": "that's"
+        },
+        {
+          "to": 34.3,
+          "confidence": 0.8630274534225464,
+          "from": 34,
+          "word_alternatives": [
+            {
+              "confidence": 0.8630274534225464,
+              "word": "$19"
+            }
+          ],
+          "word": "$19"
+        },
+        {
+          "to": 34.9,
+          "confidence": 0.9755014181137085,
+          "from": 34.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9755014181137085,
+              "word": "in"
+            }
+          ],
+          "word": "in"
+        },
+        {
+          "to": 34.9,
+          "confidence": 0.9755014181137085,
+          "from": 34.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9755014181137085,
+              "word": "total."
+            }
+          ],
+          "word": "total."
+        },
+        {
+          "to": 35.6,
+          "confidence": 0.9946193695068359,
+          "from": 34.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9946193695068359,
+              "word": "Would"
+            }
+          ],
+          "word": "Would"
+        },
+        {
+          "to": 35.6,
+          "confidence": 0.9946193695068359,
+          "from": 35.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9946193695068359,
+              "word": "you"
+            }
+          ],
+          "word": "you"
+        },
+        {
+          "to": 35.6,
+          "confidence": 0.9978454113006592,
+          "from": 35.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9978454113006592,
+              "word": "like"
+            }
+          ],
+          "word": "like"
+        },
+        {
+          "to": 35.9,
+          "confidence": 0.9968551397323608,
+          "from": 35.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9968551397323608,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 36,
+          "confidence": 0.9929764866828918,
+          "from": 35.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9929764866828918,
+              "word": "add"
+            }
+          ],
+          "word": "add"
+        },
+        {
+          "to": 36.3,
+          "confidence": 0.9993185997009277,
+          "from": 36,
+          "word_alternatives": [
+            {
+              "confidence": 0.9993185997009277,
+              "word": "anything"
+            }
+          ],
+          "word": "anything"
+        },
+        {
+          "to": 36.4,
+          "confidence": 0.9918985962867737,
+          "from": 36.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9918985962867737,
+              "word": "else"
+            }
+          ],
+          "word": "else"
+        },
+        {
+          "to": 37.1,
+          "confidence": 0.3850231170654297,
+          "from": 36.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.3850231170654297,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 37.1,
+          "confidence": 0.634895920753479,
+          "from": 37.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.634895920753479,
+              "word": "like"
+            }
+          ],
+          "word": "like"
+        },
+        {
+          "to": 37.3,
+          "confidence": 0.7437293529510498,
+          "from": 37.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.7437293529510498,
+              "word": "or"
+            }
+          ],
+          "word": "or"
+        },
+        {
+          "to": 37.4,
+          "confidence": 0.9760838150978088,
+          "from": 37.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9760838150978088,
+              "word": "maybe"
+            }
+          ],
+          "word": "maybe"
+        },
+        {
+          "to": 37.6,
+          "confidence": 0.9371622800827026,
+          "from": 37.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9371622800827026,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 37.8,
+          "confidence": 0.8997747302055359,
+          "from": 37.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.8997747302055359,
+              "word": "dessert"
+            }
+          ],
+          "word": "dessert"
+        },
+        {
+          "to": 38,
+          "confidence": 0.9146358966827393,
+          "from": 37.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9146358966827393,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 38.1,
+          "confidence": 0.8931506872177124,
+          "from": 38,
+          "word_alternatives": [
+            {
+              "confidence": 0.8931506872177124,
+              "word": "sweeten"
+            }
+          ],
+          "word": "sweeten"
+        },
+        {
+          "to": 38.2,
+          "confidence": 0.9794515371322632,
+          "from": 38.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9794515371322632,
+              "word": "the"
+            }
+          ],
+          "word": "the"
+        },
+        {
+          "to": 38.3,
+          "confidence": 0.9828475713729858,
+          "from": 38.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9828475713729858,
+              "word": "deal?"
+            }
+          ],
+          "word": "deal?"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000003",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "yeah, so that's $19 in total. Would you like to add anything else is like or maybe a dessert to sweeten the deal?",
+      "channel": 2
+    },
+    {
+      "sentence_index": 4,
+      "confidence": "0.955036759377",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "38.9",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "41.0",
+      "words": [
+        {
+          "to": 39.5,
+          "confidence": 0.781589686870575,
+          "from": 38.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.781589686870575,
+              "word": "No,"
+            }
+          ],
+          "word": "No,"
+        },
+        {
+          "to": 39.7,
+          "confidence": 0.9505132436752319,
+          "from": 39.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9505132436752319,
+              "word": "that's"
+            }
+          ],
+          "word": "that's"
+        },
+        {
+          "to": 39.8,
+          "confidence": 0.9787421226501465,
+          "from": 39.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9787421226501465,
+              "word": "fine,"
+            }
+          ],
+          "word": "fine,"
+        },
+        {
+          "to": 40.3,
+          "confidence": 0.9558156132698059,
+          "from": 39.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9558156132698059,
+              "word": "mate."
+            }
+          ],
+          "word": "mate."
+        },
+        {
+          "to": 40.4,
+          "confidence": 0.9819775819778442,
+          "from": 40.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9819775819778442,
+              "word": "I'll"
+            }
+          ],
+          "word": "I'll"
+        },
+        {
+          "to": 40.4,
+          "confidence": 0.9819775819778442,
+          "from": 40.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9819775819778442,
+              "word": "just"
+            }
+          ],
+          "word": "just"
+        },
+        {
+          "to": 40.6,
+          "confidence": 0.9770232439041138,
+          "from": 40.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9770232439041138,
+              "word": "have"
+            }
+          ],
+          "word": "have"
+        },
+        {
+          "to": 40.6,
+          "confidence": 0.9770232439041138,
+          "from": 40.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9770232439041138,
+              "word": "that."
+            }
+          ],
+          "word": "that."
+        },
+        {
+          "to": 41,
+          "confidence": 0.9828529357910156,
+          "from": 40.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9828529357910156,
+              "word": "Thank"
+            }
+          ],
+          "word": "Thank"
+        },
+        {
+          "to": 41,
+          "confidence": 0.9828529357910156,
+          "from": 41,
+          "word_alternatives": [
+            {
+              "confidence": 0.9828529357910156,
+              "word": "you."
+            }
+          ],
+          "word": "you."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0101000004",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "No, that's fine, mate. I'll just have that. Thank you.",
+      "channel": 1
+    },
+    {
+      "sentence_index": 5,
+      "confidence": "0.950756907463",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "42.3",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "Got it, so that's ",
+              "label": ""
+            },
+            {
+              "chunk": "one large ham and pineapple pizza",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " and a ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            },
+            {
+              "chunk": " for ",
+              "label": ""
+            },
+            {
+              "chunk": "$19",
+              "label": "Quantity"
+            },
+            {
+              "chunk": ". Would you like an order number for this?",
+              "label": ""
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.8402926,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.8686048,
+              "clazz": "Organization"
+            },
+            {
+              "score": 0.9976561,
+              "clazz": "Quantity"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "47.9",
+      "words": [
+        {
+          "to": 42.6,
+          "confidence": 0.922454833984375,
+          "from": 42.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.922454833984375,
+              "word": "Got"
+            }
+          ],
+          "word": "Got"
+        },
+        {
+          "to": 42.6,
+          "confidence": 0.922454833984375,
+          "from": 42.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.922454833984375,
+              "word": "it,"
+            }
+          ],
+          "word": "it,"
+        },
+        {
+          "to": 43.2,
+          "confidence": 0.9833188652992249,
+          "from": 42.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9833188652992249,
+              "word": "so"
+            }
+          ],
+          "word": "so"
+        },
+        {
+          "to": 43.3,
+          "confidence": 0.9856257438659668,
+          "from": 43.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9856257438659668,
+              "word": "that's"
+            }
+          ],
+          "word": "that's"
+        },
+        {
+          "to": 43.6,
+          "confidence": 0.9881098866462708,
+          "from": 43.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9881098866462708,
+              "word": "one"
+            }
+          ],
+          "word": "one"
+        },
+        {
+          "to": 43.8,
+          "confidence": 0.9558861255645752,
+          "from": 43.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9558861255645752,
+              "word": "large"
+            }
+          ],
+          "word": "large"
+        },
+        {
+          "to": 43.9,
+          "confidence": 0.8972209692001343,
+          "from": 43.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.8972209692001343,
+              "word": "ham"
+            }
+          ],
+          "word": "ham"
+        },
+        {
+          "to": 44,
+          "confidence": 0.5836284756660461,
+          "from": 43.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.5836284756660461,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 44.4,
+          "confidence": 0.9826647639274597,
+          "from": 44,
+          "word_alternatives": [
+            {
+              "confidence": 0.9826647639274597,
+              "word": "pineapple"
+            }
+          ],
+          "word": "pineapple"
+        },
+        {
+          "to": 44.8,
+          "confidence": 0.9828631281852722,
+          "from": 44.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9828631281852722,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 45,
+          "confidence": 0.9515363574028015,
+          "from": 44.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9515363574028015,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 45.1,
+          "confidence": 0.9321158528327942,
+          "from": 45,
+          "word_alternatives": [
+            {
+              "confidence": 0.9321158528327942,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 45.4,
+          "confidence": 0.9108641743659973,
+          "from": 45.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9108641743659973,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        },
+        {
+          "to": 45.5,
+          "confidence": 0.9723056554794312,
+          "from": 45.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9723056554794312,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 45.7,
+          "confidence": 0.9330214262008667,
+          "from": 45.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9330214262008667,
+              "word": "$19."
+            }
+          ],
+          "word": "$19."
+        },
+        {
+          "to": 46.5,
+          "confidence": 0.992455780506134,
+          "from": 45.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.992455780506134,
+              "word": "Would"
+            }
+          ],
+          "word": "Would"
+        },
+        {
+          "to": 46.5,
+          "confidence": 0.992455780506134,
+          "from": 46.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.992455780506134,
+              "word": "you"
+            }
+          ],
+          "word": "you"
+        },
+        {
+          "to": 47,
+          "confidence": 0.9976150393486023,
+          "from": 46.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9976150393486023,
+              "word": "like"
+            }
+          ],
+          "word": "like"
+        },
+        {
+          "to": 47.2,
+          "confidence": 0.9960591197013855,
+          "from": 47,
+          "word_alternatives": [
+            {
+              "confidence": 0.9960591197013855,
+              "word": "an"
+            }
+          ],
+          "word": "an"
+        },
+        {
+          "to": 47.3,
+          "confidence": 0.9971796274185181,
+          "from": 47.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9971796274185181,
+              "word": "order"
+            }
+          ],
+          "word": "order"
+        },
+        {
+          "to": 47.6,
+          "confidence": 0.994742751121521,
+          "from": 47.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.994742751121521,
+              "word": "number"
+            }
+          ],
+          "word": "number"
+        },
+        {
+          "to": 47.8,
+          "confidence": 0.9951068162918091,
+          "from": 47.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9951068162918091,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 47.9,
+          "confidence": 0.9977222681045532,
+          "from": 47.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9977222681045532,
+              "word": "this?"
+            }
+          ],
+          "word": "this?"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000005",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Got it, so that's one large ham and pineapple pizza and a Pepsi for $19. Would you like an order number for this?",
+      "channel": 2
+    },
+    {
+      "sentence_index": 6,
+      "confidence": "0.913050591946",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "48.7",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "49.6",
+      "words": [
+        {
+          "to": 49,
+          "confidence": 0.8338932991027832,
+          "from": 48.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.8338932991027832,
+              "word": "No,"
+            }
+          ],
+          "word": "No,"
+        },
+        {
+          "to": 49.6,
+          "confidence": 0.9526292085647583,
+          "from": 49,
+          "word_alternatives": [
+            {
+              "confidence": 0.9526292085647583,
+              "word": "I"
+            }
+          ],
+          "word": "I"
+        },
+        {
+          "to": 49.6,
+          "confidence": 0.9526292085647583,
+          "from": 49.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9526292085647583,
+              "word": "don't."
+            }
+          ],
+          "word": "don't."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0101000006",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "No, I don't.",
+      "channel": 1
+    },
+    {
+      "sentence_index": 7,
+      "confidence": "0.902802407742",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "51.0",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "Alright, there's your order is all set ",
+              "label": ""
+            },
+            {
+              "chunk": "one large ham and pineapple pizza",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " and a ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            },
+            {
+              "chunk": " for ",
+              "label": ""
+            },
+            {
+              "chunk": "$19",
+              "label": "Quantity"
+            },
+            {
+              "chunk": ". Thanks.",
+              "label": ""
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.8104457,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.8284652,
+              "clazz": "Organization"
+            },
+            {
+              "score": 0.99841,
+              "clazz": "Quantity"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "56.2",
+      "words": [
+        {
+          "to": 51.3,
+          "confidence": 0.6238498091697693,
+          "from": 51,
+          "word_alternatives": [
+            {
+              "confidence": 0.6238498091697693,
+              "word": "Alright,"
+            }
+          ],
+          "word": "Alright,"
+        },
+        {
+          "to": 51.6,
+          "confidence": 0.7373687028884888,
+          "from": 51.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.7373687028884888,
+              "word": "there's"
+            }
+          ],
+          "word": "there's"
+        },
+        {
+          "to": 52.4,
+          "confidence": 0.9803890585899353,
+          "from": 51.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9803890585899353,
+              "word": "your"
+            }
+          ],
+          "word": "your"
+        },
+        {
+          "to": 52.5,
+          "confidence": 0.9629936218261719,
+          "from": 52.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9629936218261719,
+              "word": "order"
+            }
+          ],
+          "word": "order"
+        },
+        {
+          "to": 52.7,
+          "confidence": 0.9147500991821289,
+          "from": 52.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9147500991821289,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 52.7,
+          "confidence": 0.9750024676322937,
+          "from": 52.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9750024676322937,
+              "word": "all"
+            }
+          ],
+          "word": "all"
+        },
+        {
+          "to": 52.8,
+          "confidence": 0.9634941220283508,
+          "from": 52.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9634941220283508,
+              "word": "set"
+            }
+          ],
+          "word": "set"
+        },
+        {
+          "to": 53,
+          "confidence": 0.9803349375724792,
+          "from": 52.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9803349375724792,
+              "word": "one"
+            }
+          ],
+          "word": "one"
+        },
+        {
+          "to": 53.3,
+          "confidence": 0.9858660697937012,
+          "from": 53,
+          "word_alternatives": [
+            {
+              "confidence": 0.9858660697937012,
+              "word": "large"
+            }
+          ],
+          "word": "large"
+        },
+        {
+          "to": 53.6,
+          "confidence": 0.9669306874275208,
+          "from": 53.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9669306874275208,
+              "word": "ham"
+            }
+          ],
+          "word": "ham"
+        },
+        {
+          "to": 53.7,
+          "confidence": 0.930756688117981,
+          "from": 53.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.930756688117981,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 54,
+          "confidence": 0.9836080074310303,
+          "from": 53.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9836080074310303,
+              "word": "pineapple"
+            }
+          ],
+          "word": "pineapple"
+        },
+        {
+          "to": 54.2,
+          "confidence": 0.9711319208145142,
+          "from": 54,
+          "word_alternatives": [
+            {
+              "confidence": 0.9711319208145142,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 54.4,
+          "confidence": 0.9861266613006592,
+          "from": 54.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9861266613006592,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 54.7,
+          "confidence": 0.9019926190376282,
+          "from": 54.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9019926190376282,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 54.8,
+          "confidence": 0.7790147066116333,
+          "from": 54.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.7790147066116333,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        },
+        {
+          "to": 55,
+          "confidence": 0.9369117617607117,
+          "from": 54.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9369117617607117,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 55.1,
+          "confidence": 0.9317380785942078,
+          "from": 55,
+          "word_alternatives": [
+            {
+              "confidence": 0.9317380785942078,
+              "word": "$19."
+            }
+          ],
+          "word": "$19."
+        },
+        {
+          "to": 56.2,
+          "confidence": 0.6409856081008911,
+          "from": 55.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.6409856081008911,
+              "word": "Thanks."
+            }
+          ],
+          "word": "Thanks."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000007",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Alright, there's your order is all set one large ham and pineapple pizza and a Pepsi for $19. Thanks.",
+      "channel": 2
+    },
+    {
+      "sentence_index": 8,
+      "confidence": "0.871277391911",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "56.2",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "57.6",
+      "words": [
+        {
+          "to": 56.8,
+          "confidence": 0.6554821133613586,
+          "from": 56.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.6554821133613586,
+              "word": "Can"
+            }
+          ],
+          "word": "Can"
+        },
+        {
+          "to": 57,
+          "confidence": 0.9772503972053528,
+          "from": 56.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9772503972053528,
+              "word": "you"
+            }
+          ],
+          "word": "you"
+        },
+        {
+          "to": 57.1,
+          "confidence": 0.8758429288864136,
+          "from": 57,
+          "word_alternatives": [
+            {
+              "confidence": 0.8758429288864136,
+              "word": "have"
+            }
+          ],
+          "word": "have"
+        },
+        {
+          "to": 57.1,
+          "confidence": 0.8758429288864136,
+          "from": 57.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.8758429288864136,
+              "word": "the"
+            }
+          ],
+          "word": "the"
+        },
+        {
+          "to": 57.5,
+          "confidence": 0.855005145072937,
+          "from": 57.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.855005145072937,
+              "word": "delivered"
+            }
+          ],
+          "word": "delivered"
+        },
+        {
+          "to": 57.6,
+          "confidence": 0.9882407784461975,
+          "from": 57.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9882407784461975,
+              "word": "please?"
+            }
+          ],
+          "word": "please?"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0101000008",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Can you have the delivered please?",
+      "channel": 1
+    },
+    {
+      "sentence_index": 9,
+      "confidence": "0.938518345356",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "59.1",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "sure thing delivery will be an extra ",
+              "label": ""
+            },
+            {
+              "chunk": "$2",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " making for the total ",
+              "label": ""
+            },
+            {
+              "chunk": "$21",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " just to confirm is the delivery address still ",
+              "label": ""
+            },
+            {
+              "chunk": "11 The Place Sydney",
+              "label": "Location"
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.98769873,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.9986871,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.5982366,
+              "clazz": "Location"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "66.1",
+      "words": [
+        {
+          "to": 59.4,
+          "confidence": 0.7710480093955994,
+          "from": 59.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.7710480093955994,
+              "word": "sure"
+            }
+          ],
+          "word": "sure"
+        },
+        {
+          "to": 59.5,
+          "confidence": 0.9109599590301514,
+          "from": 59.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9109599590301514,
+              "word": "thing"
+            }
+          ],
+          "word": "thing"
+        },
+        {
+          "to": 60.3,
+          "confidence": 0.9954420924186707,
+          "from": 59.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9954420924186707,
+              "word": "delivery"
+            }
+          ],
+          "word": "delivery"
+        },
+        {
+          "to": 60.5,
+          "confidence": 0.9934711456298828,
+          "from": 60.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9934711456298828,
+              "word": "will"
+            }
+          ],
+          "word": "will"
+        },
+        {
+          "to": 60.5,
+          "confidence": 0.9934711456298828,
+          "from": 60.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9934711456298828,
+              "word": "be"
+            }
+          ],
+          "word": "be"
+        },
+        {
+          "to": 60.8,
+          "confidence": 0.9844631552696228,
+          "from": 60.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9844631552696228,
+              "word": "an"
+            }
+          ],
+          "word": "an"
+        },
+        {
+          "to": 60.8,
+          "confidence": 0.9844631552696228,
+          "from": 60.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9844631552696228,
+              "word": "extra"
+            }
+          ],
+          "word": "extra"
+        },
+        {
+          "to": 61.1,
+          "confidence": 0.9316144585609436,
+          "from": 60.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9316144585609436,
+              "word": "$2"
+            }
+          ],
+          "word": "$2"
+        },
+        {
+          "to": 61.5,
+          "confidence": 0.9897396564483643,
+          "from": 61.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9897396564483643,
+              "word": "making"
+            }
+          ],
+          "word": "making"
+        },
+        {
+          "to": 61.8,
+          "confidence": 0.7591724395751953,
+          "from": 61.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.7591724395751953,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 61.8,
+          "confidence": 0.7591724395751953,
+          "from": 61.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.7591724395751953,
+              "word": "the"
+            }
+          ],
+          "word": "the"
+        },
+        {
+          "to": 62.3,
+          "confidence": 0.9771422147750854,
+          "from": 61.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9771422147750854,
+              "word": "total"
+            }
+          ],
+          "word": "total"
+        },
+        {
+          "to": 62.8,
+          "confidence": 0.9852713942527771,
+          "from": 62.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9852713942527771,
+              "word": "$21"
+            }
+          ],
+          "word": "$21"
+        },
+        {
+          "to": 63.5,
+          "confidence": 0.9912983775138855,
+          "from": 62.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9912983775138855,
+              "word": "just"
+            }
+          ],
+          "word": "just"
+        },
+        {
+          "to": 63.8,
+          "confidence": 0.9916983246803284,
+          "from": 63.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9916983246803284,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 64,
+          "confidence": 0.9967798590660095,
+          "from": 63.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9967798590660095,
+              "word": "confirm"
+            }
+          ],
+          "word": "confirm"
+        },
+        {
+          "to": 64.4,
+          "confidence": 0.8624800443649292,
+          "from": 64,
+          "word_alternatives": [
+            {
+              "confidence": 0.8624800443649292,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 64.5,
+          "confidence": 0.976008951663971,
+          "from": 64.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.976008951663971,
+              "word": "the"
+            }
+          ],
+          "word": "the"
+        },
+        {
+          "to": 64.6,
+          "confidence": 0.9974281191825867,
+          "from": 64.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9974281191825867,
+              "word": "delivery"
+            }
+          ],
+          "word": "delivery"
+        },
+        {
+          "to": 64.9,
+          "confidence": 0.9801910519599915,
+          "from": 64.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9801910519599915,
+              "word": "address"
+            }
+          ],
+          "word": "address"
+        },
+        {
+          "to": 65.2,
+          "confidence": 0.9744263291358948,
+          "from": 64.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9744263291358948,
+              "word": "still"
+            }
+          ],
+          "word": "still"
+        },
+        {
+          "to": 65.5,
+          "confidence": 0.7205398678779602,
+          "from": 65.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.7205398678779602,
+              "word": "11"
+            }
+          ],
+          "word": "11"
+        },
+        {
+          "to": 65.8,
+          "confidence": 0.9932093620300293,
+          "from": 65.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9932093620300293,
+              "word": "The"
+            }
+          ],
+          "word": "The"
+        },
+        {
+          "to": 66,
+          "confidence": 0.9808155298233032,
+          "from": 65.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9808155298233032,
+              "word": "Place"
+            }
+          ],
+          "word": "Place"
+        },
+        {
+          "to": 66.1,
+          "confidence": 0.962651789188385,
+          "from": 66,
+          "word_alternatives": [
+            {
+              "confidence": 0.962651789188385,
+              "word": "Sydney"
+            }
+          ],
+          "word": "Sydney"
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab0202000009",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "sure thing delivery will be an extra $2 making for the total $21 just to confirm is the delivery address still 11 The Place Sydney",
+      "channel": 2
+    },
+    {
+      "sentence_index": 10,
+      "confidence": "0.916953146458",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "66.6",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "68.2",
+      "words": [
+        {
+          "to": 66.9,
+          "confidence": 0.7937029004096985,
+          "from": 66.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.7937029004096985,
+              "word": "Yeah,"
+            }
+          ],
+          "word": "Yeah,"
+        },
+        {
+          "to": 67.5,
+          "confidence": 0.9709444046020508,
+          "from": 66.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9709444046020508,
+              "word": "it"
+            }
+          ],
+          "word": "it"
+        },
+        {
+          "to": 67.5,
+          "confidence": 0.9709444046020508,
+          "from": 67.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9709444046020508,
+              "word": "is."
+            }
+          ],
+          "word": "is."
+        },
+        {
+          "to": 68.2,
+          "confidence": 0.9322208762168884,
+          "from": 67.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9322208762168884,
+              "word": "Thanks."
+            }
+          ],
+          "word": "Thanks."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab010100000a",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Yeah, it is. Thanks.",
+      "channel": 1
+    },
+    {
+      "sentence_index": 11,
+      "confidence": "0.921014726162",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "74.3",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "75.7",
+      "words": [
+        {
+          "to": 75.7,
+          "confidence": 0.9591875076293945,
+          "from": 74.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9591875076293945,
+              "word": "Still"
+            }
+          ],
+          "word": "Still"
+        },
+        {
+          "to": 75.7,
+          "confidence": 0.882841944694519,
+          "from": 75.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.882841944694519,
+              "word": "there."
+            }
+          ],
+          "word": "there."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab010100000b",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Still there.",
+      "channel": 1
+    },
+    {
+      "sentence_index": 12,
+      "confidence": "0.822243213654",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "78.3",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "78.9",
+      "words": [
+        {
+          "to": 78.6,
+          "confidence": 0.6860014796257019,
+          "from": 78.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.6860014796257019,
+              "word": "yes,"
+            }
+          ],
+          "word": "yes,"
+        },
+        {
+          "to": 78.8,
+          "confidence": 0.8576858639717102,
+          "from": 78.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.8576858639717102,
+              "word": "I'm"
+            }
+          ],
+          "word": "I'm"
+        },
+        {
+          "to": 78.9,
+          "confidence": 0.9230421781539917,
+          "from": 78.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.9230421781539917,
+              "word": "here."
+            }
+          ],
+          "word": "here."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab020200000c",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "yes, I'm here.",
+      "channel": 2
+    },
+    {
+      "sentence_index": 13,
+      "confidence": "0.915083944798",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "80.5",
+      "lup_outputs": [
+        {
+          "extraction_result": [
+            {
+              "chunk": "Your order is confirmed ",
+              "label": ""
+            },
+            {
+              "chunk": "one large ham",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " and uh ",
+              "label": ""
+            },
+            {
+              "chunk": "pineapple",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " pizza and a ",
+              "label": ""
+            },
+            {
+              "chunk": "Pepsi",
+              "label": "Organization"
+            },
+            {
+              "chunk": " for ",
+              "label": ""
+            },
+            {
+              "chunk": "$21",
+              "label": "Quantity"
+            },
+            {
+              "chunk": " delivered to ",
+              "label": ""
+            },
+            {
+              "chunk": "11",
+              "label": "Location"
+            },
+            {
+              "chunk": " to play ",
+              "label": ""
+            },
+            {
+              "chunk": "Sydney",
+              "label": "Location"
+            },
+            {
+              "chunk": " thanks for ordering with us dares. Enjoy your meal.",
+              "label": ""
+            }
+          ],
+          "json_output": null,
+          "pii_extract_transcript_output": null,
+          "classify_extract_normalize_transcript_output": null,
+          "classification_result": [
+            {
+              "score": 0.9452806,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.5732324,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.81374735,
+              "clazz": "Organization"
+            },
+            {
+              "score": 0.99736744,
+              "clazz": "Quantity"
+            },
+            {
+              "score": 0.6705881,
+              "clazz": "Location"
+            },
+            {
+              "score": 0.97607034,
+              "clazz": "Location"
+            }
+          ],
+          "text_formatter_result": null,
+          "model_sid": "LAe8cd064ad0ee42c690a7cd6df3b326d8",
+          "model_type": "classify-extract",
+          "classify_extract_transcript_output": null,
+          "text_generation_results": null,
+          "primitive_sid": "LY4a32fbae04414e0388ce996394be2054"
+        }
+      ],
+      "raw_transcript": null,
+      "end_time": "89.7",
+      "words": [
+        {
+          "to": 81.4,
+          "confidence": 0.9975914359092712,
+          "from": 80.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9975914359092712,
+              "word": "Your"
+            }
+          ],
+          "word": "Your"
+        },
+        {
+          "to": 81.6,
+          "confidence": 0.996568500995636,
+          "from": 81.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.996568500995636,
+              "word": "order"
+            }
+          ],
+          "word": "order"
+        },
+        {
+          "to": 81.9,
+          "confidence": 0.9783024191856384,
+          "from": 81.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9783024191856384,
+              "word": "is"
+            }
+          ],
+          "word": "is"
+        },
+        {
+          "to": 82.1,
+          "confidence": 0.9282717704772949,
+          "from": 81.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9282717704772949,
+              "word": "confirmed"
+            }
+          ],
+          "word": "confirmed"
+        },
+        {
+          "to": 82.3,
+          "confidence": 0.9891605973243713,
+          "from": 82.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.9891605973243713,
+              "word": "one"
+            }
+          ],
+          "word": "one"
+        },
+        {
+          "to": 82.5,
+          "confidence": 0.983500599861145,
+          "from": 82.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.983500599861145,
+              "word": "large"
+            }
+          ],
+          "word": "large"
+        },
+        {
+          "to": 83,
+          "confidence": 0.9783238768577576,
+          "from": 82.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9783238768577576,
+              "word": "ham"
+            }
+          ],
+          "word": "ham"
+        },
+        {
+          "to": 83.1,
+          "confidence": 0.7510812282562256,
+          "from": 83,
+          "word_alternatives": [
+            {
+              "confidence": 0.7510812282562256,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 83.2,
+          "confidence": 0.2805679440498352,
+          "from": 83.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.2805679440498352,
+              "word": "uh"
+            }
+          ],
+          "word": "uh"
+        },
+        {
+          "to": 83.6,
+          "confidence": 0.9950924515724182,
+          "from": 83.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9950924515724182,
+              "word": "pineapple"
+            }
+          ],
+          "word": "pineapple"
+        },
+        {
+          "to": 84,
+          "confidence": 0.9942900538444519,
+          "from": 83.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9942900538444519,
+              "word": "pizza"
+            }
+          ],
+          "word": "pizza"
+        },
+        {
+          "to": 84.3,
+          "confidence": 0.995033860206604,
+          "from": 84,
+          "word_alternatives": [
+            {
+              "confidence": 0.995033860206604,
+              "word": "and"
+            }
+          ],
+          "word": "and"
+        },
+        {
+          "to": 84.6,
+          "confidence": 0.8990548849105835,
+          "from": 84.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.8990548849105835,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 84.9,
+          "confidence": 0.9276379942893982,
+          "from": 84.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9276379942893982,
+              "word": "Pepsi"
+            }
+          ],
+          "word": "Pepsi"
+        },
+        {
+          "to": 85,
+          "confidence": 0.9788206815719604,
+          "from": 84.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9788206815719604,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 85.4,
+          "confidence": 0.9852781295776367,
+          "from": 85,
+          "word_alternatives": [
+            {
+              "confidence": 0.9852781295776367,
+              "word": "$21"
+            }
+          ],
+          "word": "$21"
+        },
+        {
+          "to": 85.9,
+          "confidence": 0.9416753649711609,
+          "from": 85.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9416753649711609,
+              "word": "delivered"
+            }
+          ],
+          "word": "delivered"
+        },
+        {
+          "to": 86.1,
+          "confidence": 0.9534924030303955,
+          "from": 85.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9534924030303955,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 86.2,
+          "confidence": 0.8344389796257019,
+          "from": 86.1,
+          "word_alternatives": [
+            {
+              "confidence": 0.8344389796257019,
+              "word": "11"
+            }
+          ],
+          "word": "11"
+        },
+        {
+          "to": 86.5,
+          "confidence": 0.9414194226264954,
+          "from": 86.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9414194226264954,
+              "word": "to"
+            }
+          ],
+          "word": "to"
+        },
+        {
+          "to": 86.7,
+          "confidence": 0.8879296779632568,
+          "from": 86.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.8879296779632568,
+              "word": "play"
+            }
+          ],
+          "word": "play"
+        },
+        {
+          "to": 87,
+          "confidence": 0.9444278478622437,
+          "from": 86.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9444278478622437,
+              "word": "Sydney"
+            }
+          ],
+          "word": "Sydney"
+        },
+        {
+          "to": 87.4,
+          "confidence": 0.9907137155532837,
+          "from": 87,
+          "word_alternatives": [
+            {
+              "confidence": 0.9907137155532837,
+              "word": "thanks"
+            }
+          ],
+          "word": "thanks"
+        },
+        {
+          "to": 87.7,
+          "confidence": 0.9877483248710632,
+          "from": 87.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9877483248710632,
+              "word": "for"
+            }
+          ],
+          "word": "for"
+        },
+        {
+          "to": 87.9,
+          "confidence": 0.9855753779411316,
+          "from": 87.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9855753779411316,
+              "word": "ordering"
+            }
+          ],
+          "word": "ordering"
+        },
+        {
+          "to": 88.2,
+          "confidence": 0.9947562217712402,
+          "from": 87.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9947562217712402,
+              "word": "with"
+            }
+          ],
+          "word": "with"
+        },
+        {
+          "to": 88.3,
+          "confidence": 0.9783342480659485,
+          "from": 88.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.9783342480659485,
+              "word": "us"
+            }
+          ],
+          "word": "us"
+        },
+        {
+          "to": 88.6,
+          "confidence": 0.35975250601768494,
+          "from": 88.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.35975250601768494,
+              "word": "dares."
+            }
+          ],
+          "word": "dares."
+        },
+        {
+          "to": 89.3,
+          "confidence": 0.9932312369346619,
+          "from": 88.6,
+          "word_alternatives": [
+            {
+              "confidence": 0.9932312369346619,
+              "word": "Enjoy"
+            }
+          ],
+          "word": "Enjoy"
+        },
+        {
+          "to": 89.5,
+          "confidence": 0.9939550161361694,
+          "from": 89.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9939550161361694,
+              "word": "your"
+            }
+          ],
+          "word": "your"
+        },
+        {
+          "to": 89.7,
+          "confidence": 0.9215731024742126,
+          "from": 89.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.9215731024742126,
+              "word": "meal."
+            }
+          ],
+          "word": "meal."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab020200000d",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Your order is confirmed one large ham and uh pineapple pizza and a Pepsi for $21 delivered to 11 to play Sydney thanks for ordering with us dares. Enjoy your meal.",
+      "channel": 2
+    },
+    {
+      "sentence_index": 14,
+      "confidence": "0.845587193966",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "88.8",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "90.4",
+      "words": [
+        {
+          "to": 89.2,
+          "confidence": 0.8412938714027405,
+          "from": 88.8,
+          "word_alternatives": [
+            {
+              "confidence": 0.8412938714027405,
+              "word": "Thanks,"
+            }
+          ],
+          "word": "Thanks,"
+        },
+        {
+          "to": 89.4,
+          "confidence": 0.7921878695487976,
+          "from": 89.2,
+          "word_alternatives": [
+            {
+              "confidence": 0.7921878695487976,
+              "word": "mate."
+            }
+          ],
+          "word": "mate."
+        },
+        {
+          "to": 90,
+          "confidence": 0.9431859850883484,
+          "from": 89.4,
+          "word_alternatives": [
+            {
+              "confidence": 0.9431859850883484,
+              "word": "Thanks."
+            }
+          ],
+          "word": "Thanks."
+        },
+        {
+          "to": 90.4,
+          "confidence": 0.8056809902191162,
+          "from": 90,
+          "word_alternatives": [
+            {
+              "confidence": 0.8056809902191162,
+              "word": "Bye-bye."
+            }
+          ],
+          "word": "Bye-bye."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab010100000e",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Thanks, mate. Thanks. Bye-bye.",
+      "channel": 1
+    },
+    {
+      "sentence_index": 15,
+      "confidence": "0.834552943707",
+      "transcript_sid": "GT9bbfdad31b9215d22471c282cc5136ab",
+      "date_updated": "2024-06-19T04:29:57Z",
+      "start_time": "92.5",
+      "lup_outputs": [],
+      "raw_transcript": null,
+      "end_time": "94.0",
+      "words": [
+        {
+          "to": 92.9,
+          "confidence": 0.7506203651428223,
+          "from": 92.5,
+          "word_alternatives": [
+            {
+              "confidence": 0.7506203651428223,
+              "word": "Thanks,"
+            }
+          ],
+          "word": "Thanks,"
+        },
+        {
+          "to": 93.3,
+          "confidence": 0.30877432227134705,
+          "from": 92.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.30877432227134705,
+              "word": "dares."
+            }
+          ],
+          "word": "dares."
+        },
+        {
+          "to": 93.7,
+          "confidence": 0.9925330281257629,
+          "from": 93.3,
+          "word_alternatives": [
+            {
+              "confidence": 0.9925330281257629,
+              "word": "Have"
+            }
+          ],
+          "word": "Have"
+        },
+        {
+          "to": 93.9,
+          "confidence": 0.9806234836578369,
+          "from": 93.7,
+          "word_alternatives": [
+            {
+              "confidence": 0.9806234836578369,
+              "word": "a"
+            }
+          ],
+          "word": "a"
+        },
+        {
+          "to": 93.9,
+          "confidence": 0.9806234836578369,
+          "from": 93.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.9806234836578369,
+              "word": "great"
+            }
+          ],
+          "word": "great"
+        },
+        {
+          "to": 94,
+          "confidence": 0.994142472743988,
+          "from": 93.9,
+          "word_alternatives": [
+            {
+              "confidence": 0.994142472743988,
+              "word": "day."
+            }
+          ],
+          "word": "day."
+        }
+      ],
+      "sid": "GX9215d22471c282cc5136ab020200000f",
+      "date_created": "2024-06-19T04:29:57Z",
+      "service_sid": "GA45eb174fbf49a7b2dd68fe0b20db99fe",
+      "transcript": "Thanks, dares. Have a great day.",
+      "channel": 2
+    }
+  ]
+}
