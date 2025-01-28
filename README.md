@@ -1,5 +1,32 @@
 # Voice Intelligence Elastic Search
 
+
+## API v2 Changes
+- Updated `package.json` to latest SDK versions (Twilio 5.4.2)
+- Create `v2-sentences` index
+- Create `v2-operator-results` index
+- Update permissions for user to access indices
+
+
+## Sentences
+Use the following to create a `twilio-vintel-sentences` index with mappings for certain fields. By default elastic search will create the index based on the first input document, however as there are some fields that can be either a float or a long, we need to explicitly create a mapping to the correct data type otherwise an error will be thrown and the document will not be ingested.
+
+### Mapping (v2)
+
+```json
+PUT /twilio-vintel-v2-sentences
+{
+  "mappings": {
+    "properties": {
+      "sentences.words.start_time":    { "type": "float" },
+      "sentences.words.end_time":    { "type": "float" },
+    }
+  }
+}
+```
+
+
+
 # TODO:
 - Change doc creation URL to create/update
 - e.g. POST /<target>/_create/<_id>
@@ -85,10 +112,54 @@ https://opster.com/guides/elasticsearch/data-architecture/index-composable-templ
 }
 ```
 
-# Sentences
+
+## Semantic Search
+The below section shows how to create embeddings from OpenAI or HuggingFace
+
+### Embeddings
+
+#### Open AI
+
+```ts
+  const openai = new OpenAI({
+    apiKey: context.OPENAI_API_KEY,
+  });
+
+  let embeddingResp = await openai.embeddings.create({
+    input: event.query,
+    model: context.OPENAI_EMBEDDINGS_MODEL,
+  });
+  ```
+
+#### Hugging Face
+
+```ts
+const hf = new HfInference(context.HF_API_TOKEN);
+
+let embeddingResp = await hf.featureExtraction({
+  inputs: event.query,
+  model: context.HF_EMBEDDINGS_MODEL,
+   });
+```
+
+### kNN (k-Nearest Neighbour)
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html
+
+
+### Search example
+
+http://localhost:2000/api/similar_transcripts?query=customer ordering a taxi&similarity=0.3
+
+
+
+# Voice Intelligence API V1
+The section below is for *legacy* v1 of the Voice Intelligence SDK
+
+## Sentences
 Use the following to create a `twilio-vintel-sentences` index with mappings for certain fields. By default elastic search will create the index based on the first input document, however as there are some fields that can be either a float or a long, we need to explicitly create a mapping to the correct data type otherwise an error will be thrown and the document will not be ingested.
 
-## Mapping
+### Mapping
 
 ```json
 PUT /twilio-vintel-sentences
@@ -104,41 +175,3 @@ PUT /twilio-vintel-sentences
   }
 }
 ```
-
-# Semantic Search
-
-## Embeddings
-
-### Open AI
-
-```ts
-  const openai = new OpenAI({
-    apiKey: context.OPENAI_API_KEY,
-  });
-
-  let embeddingResp = await openai.embeddings.create({
-    input: event.query,
-    model: context.OPENAI_EMBEDDINGS_MODEL,
-  });
-  ```
-
-### Hugging Face
-
-```ts
-const hf = new HfInference(context.HF_API_TOKEN);
-
-let embeddingResp = await hf.featureExtraction({
-  inputs: event.query,
-  model: context.HF_EMBEDDINGS_MODEL,
-   });
-```
-
-## kNN (k-Nearest Neighbour)
-
-https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html
-
-
-## Search example
-
-http://localhost:2000/api/similar_transcripts?query=customer ordering a taxi&similarity=0.3
-
