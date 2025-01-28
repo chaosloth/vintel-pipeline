@@ -21,8 +21,6 @@ type MyContext = {
   ELASTIC_API_KEY: string;
   ELASTIC_CALLS_INDEX: string;
   ELASTIC_TRANSCRIPTION_INDEX: string;
-  ELASTIC_SENTENCE_INDEX: string;
-  ELASTIC_OPERATOR_RESULTS_INDEX: string;
 };
 
 type MyEvent = {
