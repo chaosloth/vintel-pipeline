@@ -3,8 +3,7 @@
 
 ## API v2 Changes
 - Updated `package.json` to latest SDK versions (Twilio 5.4.2)
-- Create `v2-sentences` index
-- Create `v2-operator-results` index
+- Merge the various part of the Twilio responses into one document
 - Update permissions for user to access indices
 
 
@@ -14,7 +13,7 @@ Use the following to create a `twilio-vintel-sentences` index with mappings for 
 ### Mapping (v2)
 
 ```json
-PUT /twilio-vintel-v2-sentences
+PUT /twilio-vintel-v2-transcriptions
 {
   "mappings": {
     "properties": {
